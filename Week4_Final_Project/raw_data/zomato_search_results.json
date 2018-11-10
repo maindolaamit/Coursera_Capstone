@@ -1,0 +1,1211 @@
+{
+  "results_found": 257,
+  "results_start": 0,
+  "results_shown": 20,
+  "restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 121820
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "121820",
+        "name": "24/7 All Day Dining - The Lalit Chandigarh",
+        "url": "https://www.zomato.com/24-7RestaurantChandigarh?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "The Lalit Chandigarh, Rajiv Ghandhi, IT Park, Chandigarh",
+          "locality": "The Lalit Chandigarh, IT Park",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7302093734",
+          "longitude": "76.8405193090",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "The Lalit Chandigarh, IT Park, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Italian, North Indian",
+        "average_cost_for_two": 3000,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 1,
+        "mezzo_provider": "ZOMATO_BOOK",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/121820_RESTAURANT_1411202922_3f50d1a685ff60293c1e0633fd4a4bda_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "246"
+        },
+        "photos_url": "https://www.zomato.com/24-7RestaurantChandigarh/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/24-7RestaurantChandigarh/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/121820_RESTAURANT_1411202922_3f50d1a685ff60293c1e0633fd4a4bda_c.jpg",
+        "medio_provider": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/121820",
+        "order_url": "https://www.zomato.com/24-7RestaurantChandigarh/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/24-7RestaurantChandigarh/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/24-7RestaurantChandigarh/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 121822
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "121822",
+        "name": "Baluchi - The Lalit Chandigarh",
+        "url": "https://www.zomato.com/BaluchiChandigarh?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "The Lalit Chandigarh, Rajiv Ghadhi, IT Park, Chandigarh",
+          "locality": "The Lalit Chandigarh, IT Park",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7301713313",
+          "longitude": "76.8404616416",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "The Lalit Chandigarh, IT Park, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian",
+        "average_cost_for_two": 2500,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 1,
+        "mezzo_provider": "ZOMATO_BOOK",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/121822_RESTAURANT_e4230106e5baaac86497ef163a2c1ac0_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "108"
+        },
+        "photos_url": "https://www.zomato.com/BaluchiChandigarh/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/BaluchiChandigarh/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/121822_RESTAURANT_e4230106e5baaac86497ef163a2c1ac0_c.jpg",
+        "medio_provider": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/121822",
+        "order_url": "https://www.zomato.com/BaluchiChandigarh/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/BaluchiChandigarh/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/BaluchiChandigarh/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 122087
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "122087",
+        "name": "Peddlers",
+        "url": "https://www.zomato.com/chandigarh/peddlers-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Unit 308 B, 3rd Floor, Elante Mall, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Elante Mall, Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7054802850",
+          "longitude": "76.8004380539",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Elante Mall, Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Italian, Chinese, Mexican",
+        "average_cost_for_two": 2200,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/reviews_photos/2f5/56686b92addbaf85c726368217c342f5_1525862487.JPG?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.8",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "399"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/peddlers-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/peddlers-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "http://b.zmtcdn.com/data/reviews_photos/2f5/56686b92addbaf85c726368217c342f5_1525862487.JPG",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/122087",
+        "order_url": "https://www.zomato.com/chandigarh/peddlers-chandigarh-industrial-area/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/peddlers-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 120349
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "120349",
+        "name": "Peddlers",
+        "url": "https://www.zomato.com/chandigarh/peddlers-sector-35?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Hotel Heritage, SCO 467 & 468, Sector 35 C, Sector 35, Chandigarh",
+          "locality": "Hotel Heritage, Sector 35",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7204879765",
+          "longitude": "76.7589774728",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Hotel Heritage, Sector 35, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Italian",
+        "average_cost_for_two": 2200,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/peddlers-obp_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "645"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/peddlers-sector-35/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/peddlers-sector-35/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/peddlers-obp_c.jpg",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/120349",
+        "order_url": "https://www.zomato.com/chandigarh/peddlers-sector-35/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/peddlers-sector-35/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18779929
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18779929",
+        "name": "35 Brewhouse - JW Marriott",
+        "url": "https://www.zomato.com/chandigarh/35-brewhouse-jw-marriott-sector-35?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "JW Marriott Hotel, Plot 6, Dakshin Marg, B Block, Sector 35, Chandigarh",
+          "locality": "JW Marriott, Sector 35 B",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7260295522",
+          "longitude": "76.7676896229",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "JW Marriott, Sector 35 B, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Continental, Finger Food",
+        "average_cost_for_two": 2200,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/9/18779929/f5d130222d8c9cde541284b2ccbf949b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "31",
+          "custom_rating_text": "NEW",
+          "custom_rating_text_background": "#89959B",
+          "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/35-brewhouse-jw-marriott-sector-35/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/35-brewhouse-jw-marriott-sector-35/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/9/18779929/f5d130222d8c9cde541284b2ccbf949b.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18779929",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/35-brewhouse-jw-marriott-sector-35/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 120507
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "120507",
+        "name": "Saffron - JW Marriott",
+        "url": "https://www.zomato.com/chandigarh/saffron-jw-marriott-sector-35?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "JW Marriott Hotel, Plot 6, Dakshin Marg, Sector 35 B, Sector 35, Chandigarh",
+          "locality": "JW Marriott, Sector 35 B",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7260318579",
+          "longitude": "76.7677050456",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "JW Marriott, Sector 35 B, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Indian, Vegan, Seafood",
+        "average_cost_for_two": 2000,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/120507_RESTAURANT_2f2d07c48a9de7b75805803a67b0743d_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "263"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/saffron-jw-marriott-sector-35/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/saffron-jw-marriott-sector-35/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/120507_RESTAURANT_2f2d07c48a9de7b75805803a67b0743d_c.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/120507",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/saffron-jw-marriott-sector-35/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18713241
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18713241",
+        "name": "Feast - Radisson Hotel",
+        "url": "https://www.zomato.com/chandigarh/feast-radisson-hotel-chandigarh-road-zirakpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Radisson Chandigarh Zirakpur, Patiala Road- Zirakpur, Chandigarh Road, Zirakpur",
+          "locality": "Radisson Chandigarh Zirakpur, VIP Road",
+          "city": "Zirakpur",
+          "city_id": 12,
+          "latitude": "30.6380410000",
+          "longitude": "76.8018570000",
+          "zipcode": "140603",
+          "country_id": 1,
+          "locality_verbose": "Radisson Chandigarh Zirakpur, VIP Road, Zirakpur"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Indian, European, Chinese, Thai",
+        "average_cost_for_two": 2000,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "zomato_events": [
+          {
+            "event": {
+              "event_id": 254312,
+              "friendly_start_date": "07 October",
+              "friendly_end_date": "25 November",
+              "friendly_timing_str": "Sunday, 7th October - Sunday, 25th November",
+              "start_date": "2018-10-07",
+              "end_date": "2018-11-25",
+              "end_time": "16:00:00",
+              "start_time": "12:30:00",
+              "is_active": 1,
+              "date_added": "2018-09-14 13:58:06",
+              "photos": [
+                {
+                  "photo": {
+                    "url": "https://b.zmtcdn.com/data/zomato_events/photos/c17/d4b06ae829437f3653810eaa6a40ac17_1536913686.jpg",
+                    "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/c17/d4b06ae829437f3653810eaa6a40ac17_1536913686.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+                    "order": 0,
+                    "md5sum": "d4b06ae829437f3653810eaa6a40ac17",
+                    "photo_id": 348485,
+                    "uuid": 1536913634039334,
+                    "type": "NORMAL"
+                  }
+                }
+              ],
+              "restaurants": [],
+              "is_valid": 1,
+              "share_url": "http://www.zoma.to/r/0",
+              "show_share_url": 0,
+              "title": "Sunday Brunch",
+              "description": "Packages:\nSunday Brunch + 2 Pints IMFL beer/2 single shots IMFL spirits + Pool @ INR 1770 all inc. per head\n\nSunday Brunch + Unlimited IMFL drinks + Pool @ INR 2345 all inc. per head\n\nSunday Brunch + Unlimited IMFL drinks + Pool for couples @ INR 4321 all inc. \n\n* Pool usage during brunch hours only \n\n*TnCs applied",
+              "display_time": "12:30 pm - 04:00 pm",
+              "display_date": "07 October - 25 November",
+              "is_end_time_set": 1,
+              "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
+              "event_category": 0,
+              "event_category_name": "",
+              "book_link": "",
+              "share_data": {
+                "should_show": 0
+              }
+            }
+          }
+        ],
+        "opentable_support": 0,
+        "is_zomato_book_res": 1,
+        "mezzo_provider": "ZOMATO_BOOK",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/1/18713241/6b7b8210097ccc834074b290e40d279c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.5",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "37"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/feast-radisson-hotel-chandigarh-road-zirakpur/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/feast-radisson-hotel-chandigarh-road-zirakpur/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/1/18713241/6b7b8210097ccc834074b290e40d279c.jpg",
+        "medio_provider": "",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18713241",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/chandigarh/feast-radisson-hotel-chandigarh-road-zirakpur/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/chandigarh/feast-radisson-hotel-chandigarh-road-zirakpur/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 123994
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "123994",
+        "name": "The Brew Estate",
+        "url": "https://www.zomato.com/chandigarh/the-brew-estate-sector-9-panchkula?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 351, Sector 9, Panchkula",
+          "locality": "Sector 9",
+          "city": "Panchkula",
+          "city_id": 12,
+          "latitude": "30.6972893000",
+          "longitude": "76.8494159000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Sector 9, Panchkula"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Continental, Italian, Momos",
+        "average_cost_for_two": 2000,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/4/123994/5b44170592eb4351f526a7c167203c72.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "555"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/the-brew-estate-sector-9-panchkula/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/the-brew-estate-sector-9-panchkula/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/4/123994/5b44170592eb4351f526a7c167203c72.jpg",
+        "medio_provider": 1,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/123994",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/chandigarh/the-brew-estate-sector-9-panchkula/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/chandigarh/the-brew-estate-sector-9-panchkula/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 123326
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "123326",
+        "name": "The Brew Estate",
+        "url": "https://www.zomato.com/chandigarh/the-brew-estate-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "3rd Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Elante Mall, Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7070712427",
+          "longitude": "76.7998757958",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Elante Mall, Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Continental, Italian, Momos",
+        "average_cost_for_two": 2000,
+        "price_range": 4,
+        "currency": "Rs.",
+        "offers": [],
+        "zomato_events": [
+          {
+            "event": {
+              "event_id": 271352,
+              "friendly_start_date": "05 November",
+              "friendly_end_date": "05 November",
+              "friendly_timing_str": "Monday, 5th November",
+              "start_date": "2018-11-05",
+              "end_date": "2018-11-05",
+              "end_time": "23:59:59",
+              "start_time": "20:30:00",
+              "is_active": 1,
+              "date_added": "2018-11-05 12:43:33",
+              "photos": [
+                {
+                  "photo": {
+                    "url": "https://b.zmtcdn.com/data/zomato_events/photos/3df/515deb6c461ff610aec4a9f2595523df_1541402013.jpg",
+                    "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/3df/515deb6c461ff610aec4a9f2595523df_1541402013.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+                    "order": 0,
+                    "md5sum": "515deb6c461ff610aec4a9f2595523df",
+                    "photo_id": 369268,
+                    "uuid": 19676371,
+                    "type": "FEATURED"
+                  }
+                }
+              ],
+              "restaurants": [],
+              "is_valid": 1,
+              "share_url": "http://www.zoma.to/r/0",
+              "show_share_url": 0,
+              "title": "Rizing Rebelz Performing Live",
+              "description": "Let's rise the tides of music with # RizingRebelz band. Performing tonight 5th Nov 8:30 onwards.",
+              "display_time": "08:30 pm onwards",
+              "display_date": "05 November",
+              "is_end_time_set": 0,
+              "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
+              "event_category": 1,
+              "event_category_name": "",
+              "book_link": "",
+              "share_data": {
+                "should_show": 0
+              }
+            }
+          }
+        ],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/6/123326/601f5bb0afc57751a28aca0cc4c9a477.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "438"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/the-brew-estate-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/the-brew-estate-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/6/123326/601f5bb0afc57751a28aca0cc4c9a477.jpg",
+        "medio_provider": 1,
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/123326",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/chandigarh/the-brew-estate-chandigarh-industrial-area/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/chandigarh/the-brew-estate-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 122412
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "122412",
+        "name": "Swagath Restaurant & Bar",
+        "url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "318, 3rd Floor, Elante Mall, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Elante Mall, Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7066019432",
+          "longitude": "76.8009104580",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Elante Mall, Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Mughlai, Chinese, Chettinad",
+        "average_cost_for_two": 1800,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/reviews_photos/8dd/446bd52702c301f42a2d5d39276258dd_1494274354.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "176"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/reviews_photos/8dd/446bd52702c301f42a2d5d39276258dd_1494274354.jpg",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/122412",
+        "order_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-chandigarh-industrial-area/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18306568
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18306568",
+        "name": "Urban Cafe - Hyatt Regency",
+        "url": "https://www.zomato.com/chandigarh/urban-cafe-hyatt-regency-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Hyatt Regency, 178, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Hyatt Regency, Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7049858980",
+          "longitude": "76.8002033606",
+          "zipcode": "160002",
+          "country_id": 1,
+          "locality_verbose": "Hyatt Regency, Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Continental, Chinese",
+        "average_cost_for_two": 1800,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/8/18306568/48d40bdf32d522ef4a723dc36b0d51f7.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "242"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/urban-cafe-hyatt-regency-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/urban-cafe-hyatt-regency-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/8/18306568/48d40bdf32d522ef4a723dc36b0d51f7.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18306568",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/urban-cafe-hyatt-regency-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 121838
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "121838",
+        "name": "Essence - Park Plaza",
+        "url": "https://www.zomato.com/chandigarh/essence-park-plaza-ambala-road-zirakpur?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Park Plaza, Chandigarh-Ambala Highway, Ambala Road, Zirakpur",
+          "locality": "Park Plaza, Ambala Road, Zirakpur",
+          "city": "Zirakpur",
+          "city_id": 12,
+          "latitude": "30.6384344520",
+          "longitude": "76.8218273297",
+          "zipcode": "140603",
+          "country_id": 1,
+          "locality_verbose": "Park Plaza, Ambala Road, Zirakpur, Zirakpur"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Italian, Chinese, Mediterranean, Momos",
+        "average_cost_for_two": 1800,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/8/121838/e58704fd39fc8290de9690dcc12c6c74.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "116"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/essence-park-plaza-ambala-road-zirakpur/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/essence-park-plaza-ambala-road-zirakpur/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/8/121838/e58704fd39fc8290de9690dcc12c6c74.jpg?output-format=webp",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/121838",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/essence-park-plaza-ambala-road-zirakpur/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 121427
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "121427",
+        "name": "The Atrium - Hotel KLG Starlite",
+        "url": "https://www.zomato.com/chandigarh/the-atrium-hotel-klg-starlite-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Plot 51, Opposite Tribune Chowk, Phase II, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7006790026",
+          "longitude": "76.7883231863",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Continental, Chinese",
+        "average_cost_for_two": 1800,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/121427_RESTAURANT_4c720e25b2c17f0b7eed7430b8ebc908.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "33"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/the-atrium-hotel-klg-starlite-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/the-atrium-hotel-klg-starlite-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/121427_RESTAURANT_4c720e25b2c17f0b7eed7430b8ebc908.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/121427",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/the-atrium-hotel-klg-starlite-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18689422
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18689422",
+        "name": "Chandiland",
+        "url": "https://www.zomato.com/chandigarh/chandiland-sector-7?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 8A, Madhya Marg, Sector 7, Chandigarh",
+          "locality": "Sector 7",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7333158057",
+          "longitude": "76.7979731038",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Sector 7, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Continental",
+        "average_cost_for_two": 1700,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "zomato_events": [
+          {
+            "event": {
+              "event_id": 271177,
+              "friendly_start_date": "05 November",
+              "friendly_end_date": "05 November",
+              "friendly_timing_str": "Monday, 5th November",
+              "start_date": "2018-11-05",
+              "end_date": "2018-11-05",
+              "end_time": "23:55:36",
+              "start_time": "20:00:36",
+              "is_active": 1,
+              "date_added": "2018-11-04 17:20:05",
+              "photos": [
+                {
+                  "photo": {
+                    "url": "https://b.zmtcdn.com/data/zomato_events/photos/22b/26f288ff1d080691500a46879503222b_1541332205.jpg",
+                    "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/22b/26f288ff1d080691500a46879503222b_1541332205.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A",
+                    "order": 0,
+                    "md5sum": "26f288ff1d080691500a46879503222b",
+                    "photo_id": 369064,
+                    "uuid": 15413322046638,
+                    "type": "FEATURED"
+                  }
+                }
+              ],
+              "restaurants": [],
+              "is_valid": 1,
+              "share_url": "http://www.zoma.to/r/0",
+              "show_share_url": 0,
+              "title": "NavvyVirat Live #Chandiland | 05th Nov",
+              "description": "Monday can become an awesome way of spending 1/7 of your life every week but only if you want them to ! Have a misty #MondayNight this week at #Chandiland witnessing the live music of #NavvyVirat.\n\n#Chandiland | 4th NOV | 8 PM Onwards | 8264033004/5/6\n",
+              "display_time": "08:00 pm - 11:55 pm",
+              "display_date": "05 November",
+              "is_end_time_set": 1,
+              "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
+              "event_category": 1,
+              "event_category_name": "",
+              "book_link": "",
+              "share_data": {
+                "should_show": 0
+              }
+            }
+          }
+        ],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/2/18689422/7243460fc17de38259f5a318230c443e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "321"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/chandiland-sector-7/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/chandiland-sector-7/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/2/18689422/7243460fc17de38259f5a318230c443e.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18689422",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/chandiland-sector-7/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 123125
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "123125",
+        "name": "TGI Fridays",
+        "url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 51, Madhya Marg, Sector 26, Chandigarh",
+          "locality": "Sector 26",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7245245071",
+          "longitude": "76.8061236665",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Sector 26, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "American, Tex-Mex",
+        "average_cost_for_two": 1700,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/123125/0f26dd7e526d67d97020791bdc84b92a.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1066"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/123125/0f26dd7e526d67d97020791bdc84b92a.jpg",
+        "medio_provider": 1,
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/123125",
+        "order_url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/chandigarh/tgi-fridays-sector-26/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 120296
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "120296",
+        "name": "Swagath Restaurant & Bar",
+        "url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-sector-26?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 7, Madhya Marg, Sector 26, Chandigarh",
+          "locality": "Sector 26",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7283669082",
+          "longitude": "76.8024151772",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Sector 26, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Mughlai, Chettinad, Chinese, Mangalorean",
+        "average_cost_for_two": 1600,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/120296_RESTAURANT_e19fa5b366988b510adef4da1ba02c3b_c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "800"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-sector-26/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-sector-26/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/120296_RESTAURANT_e19fa5b366988b510adef4da1ba02c3b_c.jpg",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/120296",
+        "order_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-sector-26/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/swagath-restaurant-bar-sector-26/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18616116
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18616116",
+        "name": "The Great Kabab Factory",
+        "url": "https://www.zomato.com/chandigarh/the-great-kabab-factory-sector-26?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 43, Madhya Marg, Sector 26, Chandigarh",
+          "locality": "Sector 26",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7256200048",
+          "longitude": "76.8045307696",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Sector 26, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Mughlai, Kebab",
+        "average_cost_for_two": 1600,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/6/18616116/a4f66d34a78a25398a572fe199da0197.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.2",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "200"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/the-great-kabab-factory-sector-26/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/the-great-kabab-factory-sector-26/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/6/18616116/a4f66d34a78a25398a572fe199da0197.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18616116",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/the-great-kabab-factory-sector-26/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 18247044
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "18247044",
+        "name": "The Great Bear",
+        "url": "https://www.zomato.com/chandigarh/the-great-bear-sector-26?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "SCO 32, Madhya Marg, Sector 26, Chandigarh",
+          "locality": "Sector 26",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7260309933",
+          "longitude": "76.8046487868",
+          "zipcode": "160019",
+          "country_id": 1,
+          "locality_verbose": "Sector 26, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Italian, Continental",
+        "average_cost_for_two": 1600,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/4/18247044/5c0c9aff90506defa9d311f477b541fe.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.9",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "1315"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/the-great-bear-sector-26/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/the-great-bear-sector-26/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/4/18247044/5c0c9aff90506defa9d311f477b541fe.jpg?output-format=webp",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/18247044",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/the-great-bear-sector-26/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 124093
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "124093",
+        "name": "Tamzaraa Kafe & Club",
+        "url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Plot 70, Godrej Eternia building, Industrial Area, Phase 1, Chandigarh Industrial Area, Chandigarh",
+          "locality": "Chandigarh Industrial Area",
+          "city": "Chandigarh",
+          "city_id": 12,
+          "latitude": "30.7098950630",
+          "longitude": "76.8092447519",
+          "zipcode": "160002",
+          "country_id": 1,
+          "locality_verbose": "Chandigarh Industrial Area, Chandigarh"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Chinese, Cafe, Continental, North Indian, Italian, Desserts",
+        "average_cost_for_two": 1600,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 1,
+        "mezzo_provider": "ZOMATO_BOOK",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "thumb": "https://b.zmtcdn.com/data/pictures/3/124093/eaee294c14cfc99ae4f3c74c3a5a3392.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "210"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/3/124093/eaee294c14cfc99ae4f3c74c3a5a3392.jpeg",
+        "medio_provider": "",
+        "has_online_delivery": 1,
+        "is_delivering_now": 1,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/124093",
+        "order_url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area/order?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "order_deeplink": "",
+        "is_table_reservation_supported": 1,
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/chandigarh/tamzaraa-kafe-club-chandigarh-industrial-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 121139
+        },
+        "apikey": "f4c850268294012ef371d71202772caa",
+        "id": "121139",
+        "name": "Patio Terrasse - Golden Tulip",
+        "url": "https://www.zomato.com/chandigarh/patio-terrasse-golden-tulip-sector-2-panchkula?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Golden Tulip, Near Nada Sahib Gurudwara, Morni Road, Near Sector 2, Panchkula",
+          "locality": "Golden Tulip, Panchkula",
+          "city": "Panchkula",
+          "city_id": 12,
+          "latitude": "30.6892988220",
+          "longitude": "76.9063276425",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Golden Tulip, Panchkula, Panchkula"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Thai, Chinese, Continental",
+        "average_cost_for_two": 1600,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "opentable_support": 0,
+        "is_zomato_book_res": 0,
+        "mezzo_provider": "OTHER",
+        "is_book_form_web_view": 0,
+        "book_form_web_view_url": "",
+        "book_again_url": "",
+        "thumb": "https://b.zmtcdn.com/data/res_imagery/121139_RESTAURANT_9f047f6a91c8806ea521a29c45d6d88a.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "144"
+        },
+        "photos_url": "https://www.zomato.com/chandigarh/patio-terrasse-golden-tulip-sector-2-panchkula/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/chandigarh/patio-terrasse-golden-tulip-sector-2-panchkula/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/res_imagery/121139_RESTAURANT_9f047f6a91c8806ea521a29c45d6d88a.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "include_bogo_offers": true,
+        "deeplink": "zomato://restaurant/121139",
+        "is_table_reservation_supported": 0,
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/chandigarh/patio-terrasse-golden-tulip-sector-2-panchkula/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "establishment_types": []
+      }
+    }
+  ]
+}

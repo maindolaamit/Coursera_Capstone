@@ -1,0 +1,21 @@
+{
+  "location_suggestions": [
+    {
+      "id": 12,
+      "name": "Chandigarh",
+      "country_id": 1,
+      "country_name": "India",
+      "country_flag_url": "https://b.zmtcdn.com/images/countries/flags/country_1.png",
+      "should_experiment_with": 0,
+      "discovery_enabled": 0,
+      "has_new_ad_format": 1,
+      "is_state": 0,
+      "state_id": 0,
+      "state_name": "",
+      "state_code": ""
+    }
+  ],
+  "status": "success",
+  "has_more": 0,
+  "has_total": 0
+}
