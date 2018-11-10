@@ -1,5 +1,5 @@
 # CourseEra Capstone - Data Analysis Using Python - Final Project
-![CourseEra](https://github.com/maindolaamit/Coursera_Capstone/blob/master/Week4_Final_Project/img/coursera-logo-nobg.png)
+![CourseEra](https://github.com/maindolaamit/Coursera_Capstone/blob/master/Week4_Final_Project/img/logos/coursera-logo-nobg.png)
 
 ## New Restaurant Analysis
 Restaurant business has seen a great surge after the booming of online services such as recommendation system, Online Order, Home Delivery etc. It’s Sophistication is increasing everyday, exploring new dimensions.
@@ -27,9 +27,11 @@ Data collected can be seen as a raw .json file [here](https://github.com/maindol
 
 ### Data Processing :
  Data Processing has been done on the following categories: 
-1.	Cuisine
-2.	City
-3.	Location
+1. Cuisine
+2. City
+3. Location
+4. Popularity of the location
+5. Price range of Restaurant
 
 The collected data has been stored in the Comma Separated Value file [Zomato.csv](https://github.com/maindolaamit/Coursera_Capstone/Zomato_API_Analysis/csv/zomato.csv). Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
  
