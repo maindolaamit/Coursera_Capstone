@@ -1,0 +1,25 @@
+city,area,area_latitude,area_longitude,popularity_index,nightlife_index,top_cuisines,restaurants_count
+Chandigarh,Sector 26,30.7299586,76.8101038,3.77,1.02,"North Indian,Fast Food,Chinese,Bakery,Street Food",6
+Chandigarh,Sector 21,30.7263907,76.77548999999998,4.97,5.00,"North Indian,Chinese,Fast Food,Continental,Italian",5
+Chandigarh,Sector 11,30.758323600000004,76.7841443,4.60,4.16,"North Indian,Fast Food,Chinese,Continental,Cafe",5
+Chandigarh,Sector 10,30.7532757,76.7899135,3.77,1.02,"North Indian,Fast Food,Chinese,Bakery,Street Food",5
+Chandigarh,Sector 17,30.739833899999997,76.782702,4.47,3.32,"North Indian,Fast Food,Cafe,Chinese,Italian",2
+Chandigarh,Sector 30,30.716292,76.78702899999998,4.81,4.09,"North Indian,Fast Food,Chinese,Cafe,Beverages",1
+Chandigarh,Sector 37,30.739118100000002,76.7498438,3.65,2.49,"North Indian,Fast Food,Chinese,Bakery,Mithai",4
+Chandigarh,Sector 36,30.7327703,76.7552941,3.50,0.50,"North Indian,Fast Food,Chinese,Beverages,Street Food",3
+Chandigarh,Sector 12,30.766191999999997,76.77837480000001,4.90,4.01,"North Indian,Fast Food,Chinese,Cafe,Continental",1
+Chandigarh,Sector 35,30.726162899999995,76.75962209999999,3.57,2.92,"North Indian,Fast Food,Chinese,Bakery,Street Food",10
+Chandigarh,Sector 46,30.7026207,76.7639499,3.77,1.24,"North Indian,Fast Food,Chinese,Street Food,Beverages",6
+Chandigarh,Sector 23,30.7396066,76.766835,3.77,1.02,"North Indian,Fast Food,Chinese,Bakery,Street Food",1
+Chandigarh,Sector 8,30.740058899999998,76.79856690000001,4.93,5.00,"North Indian,Chinese,Continental,Fast Food,Italian",4
+Chandigarh,Sector 38,30.745450399999996,76.74448009999998,4.84,4.00,"North Indian,Fast Food,Chinese,Continental,Beverages",3
+Chandigarh,Sector 47,30.694748399999998,76.76972009999999,4.50,4.68,"North Indian,Chinese,Fast Food,Continental,Bakery",4
+Chandigarh,Sector 32,30.709058000000002,76.77439749999998,3.77,1.02,"North Indian,Fast Food,Chinese,Bakery,Street Food",4
+Chandigarh,Sector 22,30.733958299999998,76.77261969999998,4.18,3.04,"North Indian,Fast Food,Chinese,Bakery,Street Food",2
+Chandigarh,Sector 15,30.751489199999998,76.772605,4.60,4.16,"North Indian,Fast Food,Chinese,Continental,Cafe",9
+Chandigarh,Sector 40,30.7394439,76.7379808,4.39,1.99,"North Indian,Fast Food,Chinese,Cafe,Beverages",2
+Chandigarh,Sector 28,30.7180751,76.8043355,4.57,4.72,"North Indian,Chinese,Continental,Fast Food,Italian",2
+Chandigarh,Sector 7,30.735009100000003,76.8043355,4.60,4.50,"North Indian,Fast Food,Chinese,Continental,Beverages",4
+Chandigarh,Sector 9,30.746667699999996,76.7942403,4.84,4.00,"North Indian,Fast Food,Chinese,Continental,Beverages",2
+Chandigarh,Sector 16,30.7464418,76.77837480000001,4.47,3.32,"North Indian,Fast Food,Cafe,Chinese,Italian",1
+Chandigarh,Sector 34,30.7195549,76.7639499,4.73,4.84,"North Indian,Chinese,Fast Food,Continental,Italian",5
